@@ -1,4 +1,4 @@
-# Product Data Insights & Analytics Dashboard
+# Product Data Insights & Analytics Dashboard 
 # Overview
 This repository features a comprehensive Power BI solution designed to transform raw product data into high-impact business intelligence. The project focuses on creating a robust data model that supports complex analytical queries while maintaining a modern, user-friendly interface.
 
