@@ -1,9 +1,9 @@
- Product Data Insights & Analytics Dashboard
- Overview
+# Product Data Insights & Analytics Dashboard
+# Overview
 This repository features a comprehensive Power BI solution designed to transform raw product data into high-impact business intelligence. The project focuses on creating a robust data model that supports complex analytical queries while maintaining a modern, user-friendly interface.
 
 
- Technical Architecture
+# Technical Architecture
 The project is built upon a sophisticated internal structure to ensure performance and scalability:
 
 
@@ -20,7 +20,7 @@ Optimized Layout: Features a custom-designed DiagramLayout and background assets
 
 
 
- Key Features
+# Key Features
 
 Interactive Visualizations: Dynamic reporting layers that allow users to filter by product categories, timeframes, and performance metrics.
 
@@ -32,7 +32,7 @@ Advanced Data Modeling: A structured approach to data handling, including custom
 
 Production-Ready UI: Professional backgrounds and high-quality static resources tailored for executive presentations.
 
- Project Structure
+# Project Structure
 
 ProductPowerBiProj.pbix: The primary Power BI file containing the report, data model, and DAX calculations.
 
@@ -43,7 +43,7 @@ StaticResources: Custom assets, including background images and theme JSON files
 
 Metadata: Configuration files that define the report's properties and data lineage.
 
- Getting Started
+# Getting Started
 Software: Ensure you have the latest version of Power BI Desktop installed.
 
 Open: Download and launch the ProductPowerBiProj.pbix file.
